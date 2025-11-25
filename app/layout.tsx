@@ -7,7 +7,7 @@ import { Toaster } from '@/components/ui/toaster';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'Shiv Shakti Enterprises System',
+  title: 'SM Enterprises System',
   description: 'Fabrication Shop Management System for tracking job cards and enquiries',
 };
 

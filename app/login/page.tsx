@@ -41,7 +41,7 @@ export default function LoginPage() {
           <div className="mx-auto w-16 h-16 bg-blue-600 rounded-full flex items-center justify-center">
             <Wrench className="w-8 h-8 text-white" />
           </div>
-          <CardTitle className="text-2xl font-bold">Shiv Shakti Enterprises</CardTitle>
+          <CardTitle className="text-2xl font-bold">SM Enterprises</CardTitle>
           <CardDescription>Fabrication Shop Management System</CardDescription>
         </CardHeader>
         <CardContent>

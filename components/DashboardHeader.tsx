@@ -39,7 +39,7 @@ export function DashboardHeader() {
             </div>
             <div className="truncate">
               <h1 className="text-base sm:text-xl font-bold leading-tight">
-                Shiv Shakti Enterprises
+                SM Enterprises
               </h1>
               <p className="text-[10px] sm:text-xs text-muted-foreground">
                 Fabrication Shop System
